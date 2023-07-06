@@ -2,24 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-![location view](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/12913251-fad0-46b1-b03e-cd92ae02c177)
-
-![Google office](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/f5734c83-4a4f-4d59-aaf7-13543d496e1a)
-![google office name](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/3da2dd36-abbf-46de-b03c-df64c3ebe53d)
-![google office image](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/ae2e5718-7640-4d9c-bd2f-![location](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/2320bd30-d8ef-495e-97c0-6e4560d3ef27)
-810cb851d089)
-![pick location ](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/6839283c-e420-41f0-84d5-11225253bccf)
+![google office name](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/8726cee5-aa5d-4836-a13d-f9f6c851346f)
+![google office image](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/1f5d6811-43c7-4afb-b520-7991fa855819)
+![location](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/90e9b511-194e-4ab0-8bfd-ac956f345152)
+![pick location ](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/224953c4-9d89-4936-bd97-5c9af10f4e58)
+![location view](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/08d160e6-d08a-4ff8-88cc-7435afea3123)
+![Google office](https://github.com/NitinSharma973/FAVORITE_PLACES_APP/assets/89895011/3056e5bf-46f2-4e40-b1e8-f7cec6b30f43)
